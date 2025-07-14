@@ -14,3 +14,11 @@ npm run dev
 
 ## develop
 edit file src/app/page.tsx
+
+## Deploy
+Read https://github.com/nextjs/deploy-github-pages
+
+```bash
+npm run build
+npm run export
+```
