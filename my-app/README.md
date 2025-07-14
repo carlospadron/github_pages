@@ -16,3 +16,5 @@ edit file src/app/page.tsx
 
 ## Deploy
 Read https://github.com/nextjs/deploy-github-pages
+
+Go to https://carlospadron.github.io/github_pages/
